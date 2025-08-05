@@ -199,6 +199,9 @@ This project is released under the [MIT License](LICENSE) — free to use, modif
 
 * [OpenAI API Docs](https://platform.openai.com/docs)
 * [Pynput Global Hotkeys](https://github.com/moses-palmer/pynput)
+* [![Join Discord](https://img.shields.io/badge/Join-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/98AswS3P) 
+
+
 
 ---
 

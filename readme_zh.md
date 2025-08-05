@@ -198,7 +198,7 @@ I'm functioning well, thank you! How can I assist you today?
 
 * [OpenAI API 文档](https://platform.openai.com/docs)
 * [Pynput 热键监听](https://github.com/moses-palmer/pynput)
-
+* [![Join Discord](https://img.shields.io/badge/Join-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/98AswS3P) 
 
 ---
 
