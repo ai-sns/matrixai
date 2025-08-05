@@ -3,12 +3,12 @@
 </p>
 
 
-English | [中文](README_zh.md)
+English | [中文](readme_zh.md)
 
 # 🧠 Matrix AI | Matrix-Style AI Chat Terminal
 
 ![Matrix Style](https://img.shields.io/badge/Style-Matrix-00ff00?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge)
 ![License](https://img.shields.io/github/license/ai-sns/matrixai?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/ai-sns/matrixai?style=for-the-badge)
 [![OpenAI](https://img.shields.io/badge/API-OpenAI-ffcc00?logo=openai&logoColor=black&style=for-the-badge)](https://platform.openai.com/)

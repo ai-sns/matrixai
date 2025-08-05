@@ -2,12 +2,12 @@
   <img src="logo.png" width="180" height="180"/>
 </p>
 
-[English](README.md) | 中文
+[English](readme.md) | 中文
 
 # 🧠 Matrix AI | 黑客帝国风格的 AI 聊天终端
 
 ![Matrix Style](https://img.shields.io/badge/Style-Matrix-00ff00?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge)
 ![License](https://img.shields.io/github/license/ai-sns/matrixai?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/ai-sns/matrixai?style=for-the-badge)
 [![OpenAI](https://img.shields.io/badge/API-OpenAI-ffcc00?logo=openai&logoColor=black&style=for-the-badge)](https://platform.openai.com/)
