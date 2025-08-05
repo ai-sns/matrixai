@@ -2,7 +2,7 @@
   <img src="logo.png" width="180" height="180"/>
 </p>
 
-[English](readme.md) | 中文
+[English](readme.md) | 中文介绍
 
 # 🧠 Matrix AI | 黑客帝国风格的 AI 聊天终端
 
