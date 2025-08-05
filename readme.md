@@ -3,7 +3,7 @@
 </p>
 
 
-English | [中文](readme_zh.md)
+English | [中文介绍](readme_zh.md)
 
 # 🧠 Matrix AI | Matrix-Style AI Chat Terminal
 
