@@ -119,6 +119,8 @@ python matrixai.py
 
 > 💡 Currently developed with Python 3.11. Python 3.13+ is not supported.
 
+> 💡[You can also download the windows exe release version to run directly.](https://github.com/ai-sns/matrixai/releases/tag/v1.0.0)
+
 ### ⌨️ Hotkey Overview
 
 | Action       | Description              |
