@@ -21,6 +21,7 @@ English | [中文介绍](readme_zh.md)
 ## 🔥 Project Overview
 
 **Matrix AI** is a visually striking AI chat terminal that replicates the iconic green matrix interface from *The Matrix*. It supports streaming conversations, global hotkeys, asynchronous responses, and more — crafted for developers and creatives who crave immersive interaction.
+> 💡[Download the windows exe release version and try it now.](https://github.com/ai-sns/matrixai/releases/tag/v1.0.0)
 
 ---
 
@@ -34,6 +35,7 @@ English | [中文介绍](readme_zh.md)
 * 🌓 **Modern + Retro fusion**, combining vintage terminal feel with modern UI animations
 
 ![Matrix AI Start](matrix_ai_start.gif)
+> 💡[Download the windows exe release version and try it now.](https://github.com/ai-sns/matrixai/releases/tag/v1.0.0)
 
 ### ⚙️ Technical Highlights
 
@@ -209,3 +211,4 @@ This project is released under the [MIT License](LICENSE) — free to use, modif
 
 > Let the terminal be more than just a terminal — make it your coolest AI companion. 🧠💻
 
+> 💡[Download the windows exe release version and try it now.](https://github.com/ai-sns/matrixai/releases/tag/v1.0.0)
